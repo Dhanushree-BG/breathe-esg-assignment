@@ -1,0 +1,13 @@
+[
+  {
+    "employee": "EMP001",
+    "trip_type": "flight",
+    "from_airport": "BLR",
+    "to_airport": "DEL"
+  },
+  {
+    "employee": "EMP002",
+    "trip_type": "hotel",
+    "hotel_nights": 3
+  }
+]
